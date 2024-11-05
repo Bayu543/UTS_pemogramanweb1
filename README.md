@@ -11,14 +11,13 @@
 
 
 # About
-![alt text](![5](https://github.com/user-attachments/assets/bcbd0f9c-c2a1-46bf-ab30-7e88ba6a1d14)
-)
+![alt text](Screenshots/about.PNG)
 
 # Contact
-![alt text](contact.png)
+![alt text](Screenshots/contac.PNG)
 
 # Form
-![alt text](form.png)
+![alt text](Screenshots/form.PNG)
 
 # Data Tables
-![alt text](datatables.png)
+![alt text](Datatables.PNG)
