@@ -7,7 +7,8 @@
 |Fadzar Surya Wijaya|312310451|TI.23.A.5|Pemograman Web 1|
 
 # Home
-![alt text]([home.png]
+<img src="![11](https://github.com/user-attachments/assets/35dbf050-0f2c-4d49-91bd-2ff742255f4f)
+">
 
 
 # About
