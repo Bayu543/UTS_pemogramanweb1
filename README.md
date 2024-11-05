@@ -7,7 +7,7 @@
 |Fadzar Surya Wijaya|312310451|TI.23.A.5|Pemograman Web 1|
 
 # Home
-![alt text](screenshot/home.png)
+![alt text](Screenshots/home.PNG)
 
 
 # About
