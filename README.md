@@ -20,4 +20,4 @@
 ![alt text](Screenshots/form.PNG)
 
 # Data Tables
-![alt text](Datatables.PNG)
+![alt text](Screenshots/Datatables.PNG)
