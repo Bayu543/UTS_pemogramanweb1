@@ -7,12 +7,12 @@
 |Fadzar Surya Wijaya|312310451|TI.23.A.5|Pemograman Web 1|
 
 # Home
-![alt text]([home.png](https://github.com/Bayu543/UTS_pemogramanweb1/blob/main/Screenshots/Datatables.PNG?raw=true))
-
+![alt text]([home.png]
 
 
 # About
-![alt text](about.png)
+![alt text](![5](https://github.com/user-attachments/assets/bcbd0f9c-c2a1-46bf-ab30-7e88ba6a1d14)
+)
 
 # Contact
 ![alt text](contact.png)
