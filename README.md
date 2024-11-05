@@ -7,7 +7,7 @@
 |Fadzar Surya Wijaya|312310451|TI.23.A.5|Pemograman Web 1|
 
 # Home
-![alt text](home.png)
+![alt text]([home.png](https://github.com/Bayu543/UTS_pemogramanweb1/blob/main/Screenshots/Datatables.PNG?raw=true))
 
 
 
